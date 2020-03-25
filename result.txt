@@ -1,0 +1,2 @@
+The accuracy of trainingSet is: 0.92126
+The accuracy of testSet is: 0.756
